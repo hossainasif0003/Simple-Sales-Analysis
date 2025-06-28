@@ -15,7 +15,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# Load the datase\tfile=r"C:\Users\Asif Hossain\Desktop\Dataset\Simple Sales Analysis\sales_data.csv"
+# Load the dataset
 file=r"C:\Users\Asif Hossain\Desktop\Dataset\Simple Sales Analysis\sales_data.csv"
 df = pd.read_csv(file)
 
